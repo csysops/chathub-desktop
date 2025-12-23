@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|c:\\users\\datpt\\downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|solutionrelative:chathub-desktop\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|c:\\users\\datpt\\downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|solutionrelative:chathub-desktop\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|c:\\users\\datpt\\downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|solutionrelative:chathub-desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|c:\\users\\datpt\\downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740F3E23-DC47-4860-8C17-95E0DFF9320D}|chathub-desktop\\chathub-desktop.csproj|solutionrelative:chathub-desktop\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "chathub-desktop\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\SignUpForm.cs [Design]*",
+              "RelativeToolTip": "chathub-desktop\\SignUpForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:21:20.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "chathub-desktop\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\LoginForm.cs [Design]",
+              "RelativeToolTip": "chathub-desktop\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:21:08.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\ChatForm.cs",
+              "RelativeDocumentMoniker": "chathub-desktop\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\ChatForm.cs*",
+              "RelativeToolTip": "chathub-desktop\\ChatForm.cs*",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwIcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:17:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\ChatForm.cs",
+              "RelativeDocumentMoniker": "chathub-desktop\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\datpt\\Downloads\\chathub-desktop-main (1)\\chathub-desktop-main\\chathub-desktop\\ChatForm.cs [Design]*",
+              "RelativeToolTip": "chathub-desktop\\ChatForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:17:11.358Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
